@@ -1,0 +1,3 @@
+omdb
+xmltodict
+requests
